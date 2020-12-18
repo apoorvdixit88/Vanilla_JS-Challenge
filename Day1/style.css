@@ -2,7 +2,7 @@ html {
   font-size: 10px;
   background: url('https://cdn.pixabay.com/photo/2012/03/01/01/45/baby-20374_960_720.jpg') center center/cover;
   /* background-size: cover; */
-  background-color: rgb(235, 204, 204);
+/*   background-color: rgb(235, 204, 204); */
 }
 
 body,html {
